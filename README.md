@@ -15,6 +15,7 @@ Write a C program to initialize the value as 5.800000 & display the same value a
 
 
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -22,7 +23,7 @@ int main()
     printf("%.3f",x);
     return 0;
 }
-
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/e0ce47a1-888f-4cb1-b216-70c5179628f4)
@@ -48,6 +49,7 @@ Write a C program to read A values and check whether the value is greater than a
 5. **End**
 
 # PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -62,7 +64,7 @@ int main()
     return 0;
     
 }
-
+```
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/9f5d7702-6520-4c92-a681-2777a94f69a4)
 
@@ -82,6 +84,7 @@ Write a C program to check whether the given input (For ex: 9) is an alphabet or
    - Else, print "It is not an alphabet"  
 5. End
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -92,6 +95,8 @@ int main()
     : printf("It is NOT AN ALPHABET");
 return 0;
 }
+```
+
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/b7e964c5-eb7f-45f5-99ef-3d9761916c4d)
 
@@ -114,6 +119,7 @@ Write a C program to read a, b values and check whether  a Not equal to b.
 5. End
 
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -124,6 +130,7 @@ int main()
   }
   return 0;   
 }
+```
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/9222276c-2589-4d0b-a2c4-4a99ad3683cd)
@@ -160,6 +167,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()  
 {
@@ -182,6 +190,7 @@ int main()
     }}
     return 0;
 }
+```
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/076c2278-e6c1-4ad0-ab8f-d00dc01d9919)
